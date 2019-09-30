@@ -30,7 +30,7 @@ Have a look at [this issue](https://github.com/tekezo/Karabiner-Elements/issues/
 
 
 All these configurations rely on the fact that **cmd** and **ctrl** are swapped and they modify the behaviour of **ctrl**.
-The following simple configs are recommended:
+To configure this use the following simple configs:
 
 For all Keyboards:
 ![alt text](https://i.ibb.co/sPbhy91/Screenshot-2019-09-30-at-15-47-36.png "Right command to option")
@@ -41,3 +41,5 @@ For Apple internal keyboard:
 
 In additon to these configs one may find useful to configure their Mac global keyboard shortcuts like this:
 ![alt text](https://i.ibb.co/qjZsc4X/Screenshot-2019-09-30-at-15-58-16.png "Mac keyboard shortucs")
+
+Also, selecting **"Use Option as Meta key"** in the Terminal->Preferences->Profiles->Keyboard enables the **Option** key behave like the **Alt** key on Windows/Linux systems.
