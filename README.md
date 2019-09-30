@@ -1,8 +1,8 @@
 # karabiner-config
 
-This repository contains a set of configurations for [Karabiner-Elements](https://pqrs.org/osx/karabiner/)
+This repository contains a set of configurations for [Karabiner-Elements](https://pqrs.org/osx/karabiner/).
 
-Their purpose is to tweak a Mac keyboard to behave like a Windows/Linux one. Each config may be enabled/disabled separately. The are grouped by the applications they affect or by their relevance to each other.
+Their purpose is to tweak a Mac keyboard to behave like a Windows/Linux one. Each config may be enabled/disabled separately. They are grouped by the applications they affect or by their relevance to each other.
 
 **How to install the configs ?**
 ```
@@ -26,7 +26,7 @@ Have a look at [this issue](https://github.com/tekezo/Karabiner-Elements/issues/
 **How to disable the configurations ?**
 1. Open Karabiner-Elements
 2. Select the 'Complex Modifications' tab
-3. Click the remove button for the configuration you want to disable. This won't delete the config. You will be able to re-enable it later.
+3. Click the 'Remove' button for the configuration you want to disable. This won't delete the config. You will be able to re-enable it later.
 
 
 All these configurations rely on the fact that **cmd** and **ctrl** are swapped and they modify the behaviour of **ctrl**.
